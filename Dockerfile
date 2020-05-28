@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:10-slim
 
 LABEL maintainer "Artem Panchenko <kazar.artem@gmail.com>"
 
